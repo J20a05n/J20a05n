@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jan </h1>
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently working on <a href="https://www.lieblings-wunschliste.de/" target="_blank"> Lieblings-Wunschliste </a> a free and secure online wishlist creator
 
 - 📫 How to reach me **mail@janphilippkleinschmidt.com**
 - 👨‍💻 All of my projects are available at **https://janphilippkleinschmidt.com/projects**
